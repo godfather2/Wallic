@@ -1,2 +1,4 @@
 # Wallic
-A playground to tinker around with ideas
+A reputation system for Web3 first companies.
+
+
